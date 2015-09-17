@@ -22,4 +22,4 @@ a workflow for authoring single HTML documents.
 Version 0.2: multiple reST and LESS inputs, with HTML and CSS outputs.
 In other words a workflow for creating static websites/blogs.
 
-Version 0.3 will add incremental builds.
+Version 0.3: incremental builds.
