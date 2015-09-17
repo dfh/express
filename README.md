@@ -11,7 +11,7 @@ Express should be flexible enough to allow multiple kinds of input
 formats, templating engines, and output formats. Initially, it will
 support reST input, Mako templates and HTML output.
 
-*) < 100 milliseconds on my mid-2011 MacBook Pro.
+*) < 100 milliseconds on my mid-2011 MacBook Pro (2 GHz Core i7, SSD).
 
 ## Roadmap
 
