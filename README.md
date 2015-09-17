@@ -2,7 +2,7 @@
 
 Express is a Python _library_ to create _document processing pipelines_.
 
-The main use case is to a) generate small(ish) static websites/blogs,
+The main use case is to generate a) small(ish) static websites/blogs,
 and b) slideshows and PDFs. It will do fast* incremental builds to
 allow for near-realtime feedback. A live updater for web browsers will
 be included, as a standalone program.
